@@ -1,4 +1,4 @@
 # take name from user
 name = input("Enter your name: ")
-print("Hello World")
-print(name)
+age = input("Enter your age: ")
+# print("Your name is: ", name, " and your age is: ", age)
